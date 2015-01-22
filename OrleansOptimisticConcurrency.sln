@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGrainInterfaces", "MyGrainInterfaces\MyGrainInterfaces.csproj", "{DB1C4A5C-B99B-41B5-B1B8-4C1B85B537BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrainCollection", "GrainCollection\GrainCollection.csproj", "{DA308C0D-3EED-4B78-9391-8DDC6BA5E011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiloHost", "SiloHost\SiloHost.csproj", "{86C81F24-25CD-4F2A-8D77-886642F04AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1C4A5C-B99B-41B5-B1B8-4C1B85B537BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1C4A5C-B99B-41B5-B1B8-4C1B85B537BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1C4A5C-B99B-41B5-B1B8-4C1B85B537BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1C4A5C-B99B-41B5-B1B8-4C1B85B537BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA308C0D-3EED-4B78-9391-8DDC6BA5E011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA308C0D-3EED-4B78-9391-8DDC6BA5E011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA308C0D-3EED-4B78-9391-8DDC6BA5E011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA308C0D-3EED-4B78-9391-8DDC6BA5E011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C81F24-25CD-4F2A-8D77-886642F04AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C81F24-25CD-4F2A-8D77-886642F04AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C81F24-25CD-4F2A-8D77-886642F04AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C81F24-25CD-4F2A-8D77-886642F04AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
